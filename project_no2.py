@@ -15,7 +15,7 @@ from PIL import Image
 from msedge.selenium_tools import Edge, EdgeOptions
 
 root = Tk()
-root.title("프로젝트")
+root.title("프로젝")
 # root.geometry("400x400+100+100")
 # edge_options = EdgeOptions()
 # edge_options.use_chromium = True
